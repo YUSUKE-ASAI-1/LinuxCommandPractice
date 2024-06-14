@@ -1,1 +1,1 @@
-# LinuxCommandPractice
+# LinuxCommandPractic
